@@ -1,9 +1,3 @@
----
-title: "单测的一些实践心得"
-source_url: "https://bytedance.larkoffice.com/docx/ELYPdFo5Io1y9fxfPZuc1nTBnte"
-source_type: "lark"
----
-
 # 单测的一些实践心得
 
 > 谈不上最佳实践，只是自己的一些经验分享，不一定对，欢迎讨论。

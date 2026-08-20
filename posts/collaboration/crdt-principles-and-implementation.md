@@ -1,9 +1,3 @@
----
-title: "协同算法：CRDT 的原理与实现"
-source_url: "https://bytedance.larkoffice.com/wiki/wikcnLzXKRH0YgVbCMDP97xM9fg"
-source_type: "lark"
----
-
 # 协同算法：CRDT 的原理与实现
 
 > 上一篇：[协同算法：OT 和 CRDT 的原理与差异](ot-and-crdt-principles.md)，侧重描述 OT 算法的原理和 CRDT 的概述。

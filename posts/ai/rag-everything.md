@@ -1,9 +1,3 @@
----
-title: "RAG 岂是如此不便之物：万物皆可 RAG"
-source_url: "https://bytedance.larkoffice.com/docx/DITrdvSJ3osXrKxqKiRcMuCEnWf"
-source_type: "lark"
----
-
 # RAG 岂是如此不便之物：万物皆可 RAG
 
 ## 什么是RAG

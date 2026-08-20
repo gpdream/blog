@@ -1,9 +1,3 @@
----
-title: "协同算法：OT 和 CRDT 的原理与差异"
-source_url: "https://bytedance.larkoffice.com/wiki/wikcnMam9mjykiyvWCdvsiX06Hh"
-source_type: "lark"
----
-
 # 协同算法：OT 和 CRDT 的原理与差异
 
 OT和CRDT是现在常用的协同算法，市面上各大协同产品用这两种算法实现的都比较多。本文详细介绍OT算法和CRDT算法的原理和优化，并对比OT算法和CRDT算法的差异。
