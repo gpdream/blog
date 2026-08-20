@@ -1,7 +1,5 @@
 ---
 title: "暴论：怎样才是好的 AI 办公应用"
-source_url: "https://bytedance.larkoffice.com/wiki/ZKkHwlJIbikVXxkSNFfcdgmLn7e"
-source_type: "lark"
 ---
 
 # 暴论：怎样才是好的 AI 办公应用
