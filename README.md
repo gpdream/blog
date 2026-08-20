@@ -24,11 +24,6 @@
 - 图片策略：保留原站远程链接
 - 详细结果：[恢复报告](docs/recovery-report.md)
 
-### aliyun
-
-- 2017-03-17 [阿里云tableStore介绍](posts/aliyun/2017-03-17-tableStore.md) ([原文](https://gpdream.github.io/2017/03/17/aliyun/tableStore/))
-- 2017-03-17 [阿里云EDAS介绍](posts/aliyun/2017-03-17-aliyunEDAS.md) ([原文](https://gpdream.github.io/2017/03/17/aliyun/aliyunEDAS/))
-
 ### es
 
 - 2019-04-24 [elasticsearch 7重要更新内容](posts/es/2019-04-24-es7-changes.md) ([原文](https://gpdream.github.io/2019/04/24/es/es7-changes/))
@@ -62,16 +57,5 @@
 ### java
 
 - 2019-02-01 [java gc生产环境实践](posts/java/2019-02-01-gc-online.md) ([原文](https://gpdream.github.io/2019/02/01/java/gc-online/))
-- 2017-06-08 [Pattern和Matcher.find源码解读](posts/java/2017-06-08-Pattern%E5%92%8CMatcher-find%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB.md) ([原文](https://gpdream.github.io/2017/06/08/java/Pattern%E5%92%8CMatcher-find%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/))
 - 2017-05-08 [maven详解](posts/java/2017-05-08-maven%E8%AF%A6%E8%A7%A3.md) ([原文](https://gpdream.github.io/2017/05/08/java/maven%E8%AF%A6%E8%A7%A3/))
 - 2017-01-04 [机器有大量剩余内存时但java进程还是报OOM错误](posts/java/2017-01-04-jvm-oom-beacuse-of-system-vm-config.md) ([原文](https://gpdream.github.io/2017/01/04/java/jvm%20oom%20beacuse%20of%20system%20vm%20config/))
-
-### machine-line
-
-- 2019-04-13 [人和wifi的亲密度,机器学习手把手教程](posts/machine-line/2019-04-13-ml_lrcv.md) ([原文](https://gpdream.github.io/2019/04/13/machine_learn/ml_lrcv/))
-
-### mycat
-
-- 2017-02-14 [mycat源码解读3-请求数据库](posts/mycat/2017-02-14-mycat-code-1.md) ([原文](https://gpdream.github.io/2017/02/14/mycat/mycat-code-1/))
-- 2017-02-14 [mycat源码解读2-sql处理](posts/mycat/2017-02-14-mycat-code-3.md) ([原文](https://gpdream.github.io/2017/02/14/mycat/mycat-code-3/))
-- 2017-02-14 [mycat源码解读1-登录mycat](posts/mycat/2017-02-14-mycat-code-2.md) ([原文](https://gpdream.github.io/2017/02/14/mycat/mycat-code-2/))
